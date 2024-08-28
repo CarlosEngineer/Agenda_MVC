@@ -13,7 +13,6 @@ Deletar contatos
 
 ### Ferramentas utilizadas no projeto:
 ```
-
 Banco de dados SqlServer
 Arquitetura MVC
 API Restfull
