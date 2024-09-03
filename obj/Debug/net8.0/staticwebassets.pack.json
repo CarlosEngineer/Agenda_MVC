@@ -13,16 +13,48 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Carlitos\\Documents\\MVC_DIO\\wwwroot\\imagens\\address-book-regular.svg",
+      "PackagePath": "staticwebassets\\imagens\\address-book-regular.svg"
+    },
+    {
       "Id": "C:\\Users\\Carlitos\\Documents\\MVC_DIO\\wwwroot\\imagens\\book-solid.svg",
       "PackagePath": "staticwebassets\\imagens\\book-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\Carlitos\\Documents\\MVC_DIO\\wwwroot\\imagens\\csharp.png",
+      "PackagePath": "staticwebassets\\imagens\\csharp.png"
     },
     {
       "Id": "C:\\Users\\Carlitos\\Documents\\MVC_DIO\\wwwroot\\imagens\\csharp.webp",
       "PackagePath": "staticwebassets\\imagens\\csharp.webp"
     },
     {
+      "Id": "C:\\Users\\Carlitos\\Documents\\MVC_DIO\\wwwroot\\imagens\\database-solid.svg",
+      "PackagePath": "staticwebassets\\imagens\\database-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\Carlitos\\Documents\\MVC_DIO\\wwwroot\\imagens\\fale-conosco.png",
+      "PackagePath": "staticwebassets\\imagens\\fale-conosco.png"
+    },
+    {
       "Id": "C:\\Users\\Carlitos\\Documents\\MVC_DIO\\wwwroot\\imagens\\github-brands-solid.svg",
       "PackagePath": "staticwebassets\\imagens\\github-brands-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\Carlitos\\Documents\\MVC_DIO\\wwwroot\\imagens\\house-solid.svg",
+      "PackagePath": "staticwebassets\\imagens\\house-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\Carlitos\\Documents\\MVC_DIO\\wwwroot\\imagens\\linkedin-in-brands-solid.svg",
+      "PackagePath": "staticwebassets\\imagens\\linkedin-in-brands-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\Carlitos\\Documents\\MVC_DIO\\wwwroot\\imagens\\phone-solid.svg",
+      "PackagePath": "staticwebassets\\imagens\\phone-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\Carlitos\\Documents\\MVC_DIO\\wwwroot\\imagens\\square-whatsapp-brands-solid.svg",
+      "PackagePath": "staticwebassets\\imagens\\square-whatsapp-brands-solid.svg"
     },
     {
       "Id": "C:\\Users\\Carlitos\\Documents\\MVC_DIO\\wwwroot\\js\\site.js",

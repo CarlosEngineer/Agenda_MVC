@@ -4,18 +4,103 @@
 <h1>@ViewData["Title"]</h1>
 <hr>
 
+<style>
+    h2{
+        color: purple;    
+    }
+    form{
+        display: flex;
+        flex-direction: column;
+        width: 25%;
+    }
+    .links{
+        display: flex;
+        flex-direction: column;
+    }
+
+  .body{
+    font-family: 'Roboto', sans-serif;
+
+    }
+
+    img{
+        width: 30px ;
+    }
+    h2{
+        font-weight: 200;
+    }
+    h1{
+        font-weight: 400;
+    }
+
+    h3{
+        font-weight: 300;
+        font-family: 'Matemasie', 'Roboto', sans-serif;
+        color: rgb(5, 211, 5);
+
+    }
+
+    .csharp{
+        width: 100%;
+        margin-left: 20px;
+        border-radius: 5px;
+
+        
+    }
+
+    .formulario{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;    }
+
+    .links{
+        display: flex;
+        flex-direction: row;
+        margin: 5px;
+        justify-content: space-around;
+    }
+    a{
+        text-decoration: none;
+    }
+
+</style>
+
+
 <section>
     <div>
-        <h4><br>Gostou do Projeto! Quer me contratar ?<br>Segue os meus contatos:</h4>
+        <h2>Contatos:</h2>
         <hr>
+        <h3>Fale <span>Comigo.</span></h3>
+        <br>
+        <section class="formulario">
+            <form  action="">
+            <label><b>Seu Nome:</b></label>
+            <input type="text" placeholder="Digite seu nome...">
+            <br>
+            <label><b>Seu Email:</b></label>
+            <input type="email" name="email" placeholder="Digite seu email...">
+            <br>
+            <button class="btn btn-primary" type="submit">Enviar</button>
+        </form> 
+             <div>
+                <img class="csharp" src="~/imagens/csharp.png">
+            </div>
+
+        </section>
+        
+        <br>
         <div>
-            <ul>
-                <li><a href="https://github.com/CarlosEngineer">GitHub</a></li>
-                <li><a href="https://www.linkedin.com/in/carlos-eduardo-desenvolvedor-fullstack/">Linkedin</a></li>
-                <li><a href="https://github.com/CarlosEngineer">GitHub</a></li>
-            </ul>
-        </div>
+        <h2>Links das minhas Redes</h2>
         <hr>
+        <div class="links">
+            <a href="https://github.com/CarlosEngineer" target="_blank"><img src="~/imagens/github-brands-solid.svg" alt="">  GitHub</a>
+            <br>
+            <a href="https://www.linkedin.com/in/carlos-eduardo-desenvolvedor-fullstack/" target="_blank"><img src="~/imagens/linkedin-in-brands-solid.svg">  Linkedin</u></a>
+        </div>
+
     </div>
+    </div> 
+ 
+   
 </section>
 

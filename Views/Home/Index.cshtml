@@ -2,38 +2,62 @@
     ViewData["Title"] = "Pagina Inicial";
 }
 
+<style>
+    main{
+        font-family: 'Roboto', sans-serif;
+    }
+    h1{
+        color: blue;
+        font-weight: 400;
+    }
+    .apresentacao{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    
 
-<main>
+    }
+
+    .parte{
+        margin: 10px;
+        border-color: 2px black;
+    }
+
+</style>
+<main >
     <section class="secao d-flex justify-content-center align-items-center">
         <div>
-            <h1 class="align-items-center">Bem-vindo Novamente!!</h1>  
+            <h1 class="align-items-center">Seja Bem-vindo!!</h1>  
             <hr>
-            <h2>Carlos Engineer FullStack</h2>
+            <h2>Carlos Engineer<br>FullStack</h2>
             <br>
             <h4>Apresentação: </h4>
             <hr>
 
             <p>Aqui um pouco das funcionalidades da sua <strong>"Agenda"</strong>, como funciona e suas atribuições.</p>
-        
-            <h4>Funcionalidades da Agenda:</h4>
-            <hr>
-            <ul>
-                <li>Criação de novos contatos</li>
-                <li>Atualizações dos contatos</li>
-                <li>Deletar contatos</li>
-            </ul>
-            
-            <h4>Ferramentas utilizadas no projeto:</h4>
-            <hr>
-            <ul>
-                <li>Banco de dados SqlServer</li>
-                <li>Arquitetura MVC</li>
-                <li>API Restfull</li>
-            </ul>
-        </div>
-        <div class="foto d-block w-50">
-            <img src="~/imagens/csharp.webp" alt="">
-        </div>
+
+            <section>
+            <div class=" apresentacao">
+                <div class="parte">
+                    <h4>Funcionalidades da Agenda:</h4>
+                    <hr>
+                    <ul>
+                        <li>Criação de novos contatos</li>
+                        <li>Atualizações dos contatos</li>
+                        <li>Deletar contatos</li>
+                    </ul>
+
+                </div>
+                <div class="parte">
+                    <h4>Ferramentas utilizadas no projeto:</h4>
+                    <hr>
+                    <ul>
+                        <li>Banco de dados SqlServer</li>
+                        <li>Arquitetura MVC</li>
+                        <li>API Restfull</li>
+                    </ul>
+                </div>
+            </div>                 
     </section>
 </main>
 

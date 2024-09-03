@@ -135,3 +135,4 @@ C:\Users\Carlitos\Documents\MVC_DIO\bin\Debug\net8.0\runtimes\win\lib\net6.0\Sys
 C:\Users\Carlitos\Documents\MVC_DIO\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\Carlitos\Documents\MVC_DIO\obj\Debug\net8.0\MVC_DIO.csproj.AssemblyReference.cache
 C:\Users\Carlitos\Documents\MVC_DIO\obj\Debug\net8.0\MVC_DIO.csproj.Up2Date
+C:\Users\Carlitos\Documents\MVC_DIO\obj\Debug\net8.0\MVC_DIO.sourcelink.json
